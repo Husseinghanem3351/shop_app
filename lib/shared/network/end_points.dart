@@ -1,0 +1,10 @@
+const loginUrl='login';
+const signOutUrl='logout';
+const homeUrl='home';
+const getCategories='categories';
+const favorites='favorites';
+const profile='profile';
+const updateProfileUrl='update-profile';
+const registerUrl='register';
+const searchURL='products/search';
+const cart ='carts';
